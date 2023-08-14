@@ -4,3 +4,7 @@
 
 layout: home
 ---
+Photo
+Introduction
+Site overview
+Quick links
